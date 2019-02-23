@@ -13,6 +13,10 @@ buildscript {
     }
 }
 
+ext {
+    micronautVersion = "1.1.0.M1"
+}
+
 version "0.1"
 group "example.micronaut"
 
