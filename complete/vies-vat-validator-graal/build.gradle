@@ -17,6 +17,10 @@ plugins {
     id "net.ltgt.apt-idea" version "0.18"
 }
 
+ext {
+    micronautVersion = "1.1.0.M1"
+}
+
 version "0.1"
 group "example.micronaut"
 
